@@ -3,7 +3,7 @@
 A Computer Science student who is interested in Front-End Development and Coding
 
 <!--
-*pinggdev/KevinSinaga* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*pinggdev/pinggdev* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!--Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
