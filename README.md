@@ -1,6 +1,6 @@
 # Hi there 👋 , I'm Kevin Sinaga!
 
-A Computer Science student who is interested in Front-End Development and Coding
+A Computer Science student who is interested in Front-End, Back=End Development and Coding
 
 <!--
 *pinggdev/pinggdev* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
